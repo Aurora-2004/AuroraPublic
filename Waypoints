@@ -13,7 +13,7 @@ return {
 
     ["Bob's Shack"] = CFrame.new(251.699, 8.40084, -2540.02),
 
-    ["Swamp"] = CFame.new(-888.619, 125.601, -1427.07),
+    ["Swamp"] = CFrame.new(-888.619, 125.601, -1427.07),
 
     ["Memorial"] = CFrame.new(-1127.25, 1.10022, -944.256),
 
